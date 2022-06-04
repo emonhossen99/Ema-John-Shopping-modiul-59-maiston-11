@@ -1,0 +1,51 @@
+.from-title {
+    margin-bottom: 6px;
+    color: #0e0eff;
+}
+
+.form-container {
+    width: 65%;
+    margin: auto;
+    border: 1px solid #ded6d5;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.register {
+    color: orange;
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+.loginbutton {
+    width: 100%;
+}
+
+.underLineDiv{
+    display: flex;
+    justify-content: center;
+}
+.underLineLeft {
+    width: 50%;
+    border-bottom: 1px solid #bbb8b8;
+    margin-right: 3px;
+}
+.underLineRight {
+    width: 50%;
+    border-bottom: 1px solid #bbb8b8;
+}
+.googleLogin{
+    margin-top: 30px;
+    border: 2px solid #d9d6d6;
+    border-radius: 5px;
+    text-align-last: center;
+    cursor: pointer;
+}
+.googleLogo{
+    width: 40px;
+}
+.loading{
+    color: orange;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
