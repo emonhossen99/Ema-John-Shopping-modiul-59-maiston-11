@@ -3,7 +3,7 @@ import { Button, Form } from 'react-bootstrap';
 import { Link, useNavigate } from 'react-router-dom';
 import { useCreateUserWithEmailAndPassword } from 'react-firebase-hooks/auth';
 import './SingUp.css'
-import img from '../../img/download.png'
+import img from '../../img/google.jpg'
 import auth from '../../firebase.init';
 
 const SingUp = () => {
